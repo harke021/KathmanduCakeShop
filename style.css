@@ -21,7 +21,7 @@ h1{
     position: fixed;
     height: 12vh;
     width: 100%;
-    /* background-color: black; */
+    background-color: black;
 }
 .leftnav{
     width: 25%;
