@@ -1,1 +1,6 @@
-jhsagdfhvsfhghewgvhgfhg
+git status
+git add .
+git commit -m " any reference text " 
+git push origin master
+
+// if any changes have been done 
