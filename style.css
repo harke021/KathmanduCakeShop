@@ -5,7 +5,7 @@
     color: white;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url(img/cake\ 6.jpg);
+    background: rgba(0, 0, 0, 0.7) url(./img/cake\ 6.jpg);
     background-size: cover;
     background-blend-mode: darken;
 }
